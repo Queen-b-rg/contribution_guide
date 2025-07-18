@@ -28,4 +28,3 @@ Please read our complete **[Contribution Guide](https://app.clickup.com/90158183
 
 
 
-*This CONTRIBUTING.md file provides a brief overview. For detailed instructions, please refer to our complete contribution guide linked above.*
