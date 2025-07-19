@@ -6,7 +6,7 @@ We're excited to have you join our community of contributors. To ensure a smooth
 
 ## 📚 Full Contribution Guide
 
-Please read our complete **[Contribution Guide](https://app.clickup.com/9015818378/v/dc/8cp4y4a-2655)** which includes:
+Please read our complete **[Contribution Guide](https://doc.clickup.com/9015818378/d/h/8cp4y4a-2655/2a3ab8c31eb7bd6)** which includes:
 
 - Project setup instructions
 - Branching strategy and naming conventions
