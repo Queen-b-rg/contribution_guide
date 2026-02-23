@@ -1,30 +1,30 @@
-# Contributing to Our Projects
+# Student Management System
 
-Welcome and thank you for your interest in contributing to our projects!
+A Flask-based student management system with authentication, student and admin dashboards.
 
-We're excited to have you join our community of contributors. To ensure a smooth and collaborative experience for everyone, we've created a comprehensive contribution guide that covers everything you need to know.
+## Features
 
-## Full Contribution Guide
+- User registration and login
+- Student dashboard: view program, results, finances
+- Admin dashboard: manage students, release results, manage finances
+- Departments page
+- Edit profile and forgot password
 
-Please read our complete **[Contribution Guide](https://doc.clickup.com/9015818378/d/h/8cp4y4a-2655/2a3ab8c31eb7bd6)** which includes:
+## Setup
 
-- Project setup instructions
-- Branching strategy and naming conventions
-- Pull request guidelines
-- Commit message standards
-- Code review process
-- Issue filing guidelines
-- Code of conduct etc
-  
+1. Install dependencies: `pip install -r requirements.txt`
+2. Run the app: `python app.py`
+3. Open http://localhost:5000
 
-## Quick Start
+## Deployment on Render
 
-1. Read the full contribution guide (link above)
-2. Fork the repository (external contributors) or clone directly (team members)
-3. Set up your development environment
-4. Create a feature branch following our naming conventions
-5. Make your changes and test thoroughly
-6. Submit a pull request with a clear description
+1. Push to GitHub
+2. Connect to Render
+3. Set environment variables: SECRET_KEY, DATABASE_URL (for PostgreSQL), MAIL_USERNAME, MAIL_PASSWORD
+4. Deploy
 
+## Scalability
 
-
+- Uses SQLAlchemy ORM
+- Can switch to PostgreSQL for production
+- Modular code structure for easy extension
